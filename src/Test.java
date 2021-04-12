@@ -21,6 +21,7 @@ public class Test {
 
         double f = 1000;
 
+
         System.out.println(String.format("%.2f", f));
     }
 }
